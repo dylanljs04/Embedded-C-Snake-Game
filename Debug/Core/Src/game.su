@@ -1,0 +1,14 @@
+../Core/Src/game.c:70:6:clearscreen	24	static
+../Core/Src/game.c:86:8:turnoffscreen	16	static
+../Core/Src/game.c:96:8:turnonscreen	16	static
+../Core/Src/game.c:106:8:addpixel	24	static
+../Core/Src/game.c:116:8:pwm_pixel_pause	24	static
+../Core/Src/game.c:138:7:removepixel	24	static
+../Core/Src/game.c:150:7:display_end	8	static
+../Core/Src/game.c:160:7:display_snake	8	static
+../Core/Src/game.c:167:7:display_pause	8	static
+../Core/Src/game.c:178:7:change_coordinate	32	static
+../Core/Src/game.c:187:6:move_direction	16	static
+../Core/Src/game.c:209:6:new_x_coordinates	16	static
+../Core/Src/game.c:225:6:new_y_coordinates	16	static
+../Core/Src/game.c:241:6:check_keep_playing	4	static
